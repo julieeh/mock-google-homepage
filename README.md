@@ -1,2 +1,2 @@
-# mock-google-homepage
-A mock Google homepage from the Odin Project 
+#### Mock-google-homepage
+An introductory project to HTML and CSS styling from the Odin Project 
